@@ -7,4 +7,5 @@ Created on [Walnut](https://github.com/TheCherno/Walnut) - by following along on
 - C++
 - Walnut engine
 - Rendering 3D scenes
-- Vulkan Drivers
+- OpenGL
+- (Eventually!) Vulkan Drivers
